@@ -1,2 +1,2 @@
 # python.file
-these are little project python files
+These are begineer python  project files
